@@ -1,0 +1,29 @@
+{
+  "name": "biblioteca-markdownsoc",
+  "version": "1.0.0",
+  "description": "Biblioteca extrair links",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silmaraoc010/biblioteca-markdownSOC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silmaraoc010/biblioteca-markdownSOC/issues"
+  },
+  "homepage": "https://github.com/silmaraoc010/biblioteca-markdownSOC#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}
